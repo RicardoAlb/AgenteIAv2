@@ -1,0 +1,2 @@
+geminiApi="AIzaSyCcBVKW68TcCd5MickSzpF9yVEziowUZK0"
+pexelsApi="CZF7DY2X0hGe4ysKUaKKUKjLC2ihOpgAaoc4WbrIbCAaHsZrWXWnjq0P"
